@@ -45,3 +45,12 @@ No such thing as a multi line comment in Python.
 - Variables that start/end with 2 underscores, supposed to be private/left alone
 `__Dont_touch__`
 
+## Data Types in Python
+Basically 👇
+| Type       | Desc.                                                                          | 
+| :--------: |:------------------------------------------------------------------------------:| 
+| `bool`     | **Boolean** `True` `False` (Remember cap 1st letter)                           | 
+| `int`      | **Integer**  1,2,3                                                             |  
+| `str`      | **String** `"Tony"`                                                            |  
+| `list`     | Ordered sequence of values of other data types e.g `[1,2,3]` or `["a","b","c"]`| 
+| `dict`     | a collection of key values e.g `{"first_name": "John", "last_name": "Doge"}`   | 
