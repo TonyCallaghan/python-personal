@@ -13,7 +13,7 @@ Notes created from Udemy python course.
 
 <br>
 
-##### New ones to note..
+#### New ones to note..
 `**` To the power
 
 > 3**3 returns 27 (int)
@@ -26,7 +26,7 @@ Notes created from Udemy python course.
 
 <br>
 
-## Comments
+#### Comments
 `#` Single Line Comment
 
 No such thing as a multi line comment in Python.
