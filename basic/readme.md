@@ -42,3 +42,6 @@ No such thing as a multi line comment in Python.
   1. **CAPITAL_SNAKE_CASE** usually refers to constants `VALUE_OF_PI = 3.14`
   2. **UpperCamelCase usually refers to a class.
 
+- Variables that start/end with 2 underscores, supposed to be private/left alone
+`__Dont_touch__`
+
