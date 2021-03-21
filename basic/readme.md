@@ -45,6 +45,10 @@ No such thing as a multi line comment in Python.
 - Variables that start/end with 2 underscores, supposed to be private/left alone
 `__Dont_touch__`
 
+
+<br>
+
+
 ## Data Types in Python
 Basically 👇
 | Type       | Desc.                                                                          | 
