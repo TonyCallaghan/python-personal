@@ -1,6 +1,6 @@
 # Basic Python Notes
 
-Notes created from Udemy python course. 
+Notes **I** created from Udemy python course. 
 
 ## Numbers, Operators, and Comments
 `+` `-` `/` `*` `%`
