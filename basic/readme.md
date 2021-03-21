@@ -11,7 +11,7 @@ Notes created from Udemy python course.
 
 > 56 / 8 returns 7.0
 
-
+<br>
 
 ##### New ones to note..
 `**` To the power
@@ -23,8 +23,8 @@ Notes created from Udemy python course.
 > 56.2 / 8 = 7.0
 
 ☝ Rounds down to nearest whole number
-<br>
 
+<br>
 
 ## Comments
 `#` Single Line Comment
