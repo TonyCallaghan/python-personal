@@ -58,3 +58,16 @@ Basically 👇
 | `str`      | **String** `"Tony"`                                                            |  
 | `list`     | Ordered sequence of values of other data types e.g `[1,2,3]` or `["a","b","c"]`| 
 | `dict`     | a collection of key values e.g `{"first_name": "John", "last_name": "Doge"}`   | 
+
+<br>
+
+## Python is Dynamically Typed
+
+- Like JS, you can change data types to whatever you want them
+- For example:
+ 1.`i_am_string = "hello world"`
+ 2.`i_am_string = 73 ` 
+ 3.`i_am_string = True`
+- Python doesn't care (won't return error) 😃
+
+> `type(i_am_string)` would return *bool*.
