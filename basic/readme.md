@@ -65,8 +65,13 @@ Basically 👇
 
 - Like JS, you can change data types to whatever you want them
 - For example:
+
  1.`i_am_string = "hello world"`
+
+
  2.`i_am_string = 73 ` 
+
+
  3.`i_am_string = True`
 - Python doesn't care (won't return error) 😃
 
