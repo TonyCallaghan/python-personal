@@ -13,7 +13,7 @@ Notes created from Udemy python course.
 
 <br>
 
-#### New ones to note..
+### New ones to note..
 `**` To the power
 
 > 3**3 returns 27 (int)
@@ -26,7 +26,19 @@ Notes created from Udemy python course.
 
 <br>
 
-#### Comments
+### Comments
 `#` Single Line Comment
 
 No such thing as a multi line comment in Python.
+
+<br>
+
+## Naming Conventions
+- Most variables should be **snake_case** (underscores between words)
+
+`my_answer = 43`
+
+- Most variablkes should be lowercase with some exceptions:
+  1. **CAPITAL_SNAKE_CASE** usually refers to constants `VALUE_OF_PI = 3.14`
+  2. **UpperCamelCase usually refers to a class.
+
