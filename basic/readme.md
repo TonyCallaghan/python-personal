@@ -11,6 +11,8 @@ Notes created from Udemy python course.
 
 > 56 / 8 returns 7.0
 
+<br>
+
 ##### New ones to note..
 `**` To the power
 
