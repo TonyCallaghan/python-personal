@@ -90,9 +90,25 @@ etc..
 - Several ways to format Strings in python to *interpolate* variables.
 - For example:
 
-`x = 10`
-`formatted = f"I've told you {x} times, already!"`
-`print(formatted)`
+1.`x = 10`
+2.`formatted = f"I've told you {x} times, already!"`
+3.`print(formatted)`
 
 > I've told you 10 times, already!
 
+<br>
+
+## Converting Data Types
+- Changing double to int
+1.`dec = 12.345`
+2.`integer = int(dec)`
+3.`print(integer)`
+
+> 12
+
+- Changing Ints to Strings etc..
+1.`my_list = [1,2,3]`
+2.`my_new_list = str(my_list)`
+3.`print(my_new_list)`
+
+> "[1,2,3]"
