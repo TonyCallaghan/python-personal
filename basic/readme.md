@@ -105,6 +105,8 @@ etc..
 
 ## Converting Data Types
 - Changing double to int
+
+
 1.`dec = 12.345`
 
 
@@ -117,6 +119,8 @@ etc..
 > 12
 
 - Changing Ints to Strings etc..
+
+
 1.`my_list = [1,2,3]`
 
 
