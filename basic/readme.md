@@ -76,3 +76,23 @@ Basically 👇
 - Python doesn't care (won't return error) 😃
 
 > `type(i_am_string)` would return *bool*.
+
+<br>
+
+## String Escape sequences 
+- Work exactly the same as any other language.
+> `\n` would give a new line.
+> `\\` would give a backslash.
+etc..
+
+## String Concatention (Formating)
+- Bit differnt with Python(3.6)
+- Several ways to format Strings in python to *interpolate* variables.
+- For example:
+
+`x = 10`
+`formatted = f"I've told you {x} times, already!"`
+`print(formatted)`
+
+> I've told you 10 times, already!
+
