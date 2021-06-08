@@ -131,3 +131,25 @@ etc..
 
 
 > "[1,2,3]"
+
+<br>
+
+## Condition Logic
+
+- Works the same 🙌
+- Just remember instead of `else if()` Python uses `elif` 🤦
+- Use `:` instead of `{}` & theres no need for parameters`()` 
+- Example:
+
+
+1.`if name == "Tony":`
+
+
+2.    `Print("Hello Tony!")`
+
+
+3.`elif name == "guest":`
+
+4.    `Print("Hello Guest!")`
+
+
