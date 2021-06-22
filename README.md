@@ -162,9 +162,11 @@ In your conditional statements:
 - `or` is the same as `||`
 - `not` is kinda the same as `!`
 
+<br>
 
-- `is` is not the same as `==`
+- `is` is **NOT** the same as `==`
 - `is` is only true if the variables/lists reference the same item in memory
+- Example:
 
 
 1.`c=b`
