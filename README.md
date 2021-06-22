@@ -1,6 +1,6 @@
 # Basic Python Notes
 
-Notes **I** created from Udemy python course. 
+Notes **I** created when learning Python. 
 
 ## Numbers, Operators, and Comments
 `+` `-` `/` `*` `%`
@@ -139,6 +139,7 @@ etc..
 - Works the same 🙌
 - Just remember instead of `else if()` Python uses `elif` 🤦
 - Use `:` instead of `{}` & theres no need for parameters`()` 
+- REMEMBER INDENTATION 📢
 - Example:
 
 
@@ -152,5 +153,22 @@ etc..
 
 4.    `Print("Hello Guest!")`
 
+<br>
 
+## Conditional Logic cont.
+
+In your conditional statements:
+- `and` is the same as `&&`
+- `or` is the same as `||`
+- `not` is kinda the same as `!`
+
+
+- `is` is not the same as `==`
+- `is` is only true if the variables/lists reference the same item in memory
+
+
+1.`c=b`
+
+
+2.`b is c` #true
 
