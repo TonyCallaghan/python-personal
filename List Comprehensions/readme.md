@@ -10,7 +10,7 @@
 <br>
 
 ### Comprehensions vs Looping (eg)
-Looping:
+##### Looping:
 
 `numbers = [1, 2, 3, 4, 5]`
 
@@ -24,7 +24,8 @@ Looping:
 
 `print(doubled_numbers) # [2, 4, 6, 8, 10]`
 
-Using Comprehensions:
+
+##### Using Comprehensions:
 
 `numbers = [1, 2, 3, 4, 5]`
 
@@ -34,6 +35,7 @@ Using Comprehensions:
 
 cleaner/quicker 🙌
 
+<br>
 
 ### Examples:
 
@@ -43,29 +45,32 @@ cleaner/quicker 🙌
 
 3. `numbers = [1, 2, 3, 4, 5]`
 
-`string_list = [str(num) for num in numbers]`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `string_list = [str(num) for num in numbers]`
 
-`print(string_list) # ['1', '2', '3', '4', '5']`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `print(string_list) # ['1', '2', '3', '4', '5']`
 
+<br>
 
 ### LC with conditional Logic
 
+
 You can have if/else statments with list comprehensions 🙌
+
 
 1. `numbers = [1, 2, 3, 4, 5, 6]`
 
-`evens = [num for num in numbers if num % 2 == 0]`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `evens = [num for num in numbers if num % 2 == 0]`
 
-`odds = [num for num in numbers if num % 2 != 0]`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `odds = [num for num in numbers if num % 2 != 0]`
 
 
 2. `[num*2 if num % 2 == 0 else num/2 for num in numbers] `
 
-`# [0.5, 4, 1.5, 8, 2.5, 12]`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `# [0.5, 4, 1.5, 8, 2.5, 12]`
 
 
 3. `with_vowels = "This is so much fun!" `
 
-`''.join(char for char in with_vowels if char not in "aeiou")`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `''.join(char for char in with_vowels if char not in "aeiou")`
 
-`# "Ths s s mch fn!" `
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `# "Ths s s mch fn!" `
