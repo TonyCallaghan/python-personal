@@ -17,8 +17,10 @@ Looping:
 `doubled_numbers = []`
 
 `for num in numbers:`
-> `doubled_number = num * 2`
-> `doubled_numbers.append(doubled_number)`
+
+&nbsp;&nbsp;&nbsp;&nbsp; `doubled_number = num * 2`
+
+&nbsp;&nbsp;&nbsp;&nbsp;`doubled_numbers.append(doubled_number)`
 
 `print(doubled_numbers) # [2, 4, 6, 8, 10]`
 
